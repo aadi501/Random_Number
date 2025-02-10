@@ -1,1 +1,2 @@
-# Random_Number
+# random_number
+ random number game

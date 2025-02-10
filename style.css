@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+h1{
+    background-color: rgb(202, 107, 107);
+    text-align: center;
+    margin:12px  auto;
+    border-radius: 15px
+
+}
+#input{
+    width: 20rem;
+    height: 2rem;
+    display: block;
+    margin:1rem auto 1rem auto;
+    border: 2px solid white;
+    outline: none;
+    color: white;
+}
+#submit{
+    width: 23rem;
+    height: 2rem;
+    display: block;
+    margin:1rem auto;
+    /* margin-top: 1rem; */
+    border: 2px solid white;
+    background-color:rgb(202, 107, 107) ;
+}
+#display{
+    /* font-size: larger; */
+    background-color: rgb(202, 107, 107);
+    margin: 7rem auto 3rem auto;
+    text-align: center;
+    padding: 54px;
+    height: 34px;
+    /* width: 23rem; */
+    border-radius: 3px;
+}
+#form_sub{
+    margin: auto;
+}
